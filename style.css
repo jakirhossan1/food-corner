@@ -1,0 +1,46 @@
+
+.color{
+    color: rgb(3, 105, 238);
+     }
+    h1{
+        font-size: 50px;
+    }
+    section{
+        display: flex;
+       
+       width:100%;
+
+     }
+     .top-benner{
+         background-image: url(images/0dafb7928a99a9cb552a941895a6e586.jpg);
+         border-radius: 10px;
+        color: rgba(1, 1, 10, 0.89)
+        
+     }
+     
+     .center{
+        text-align: center;
+    } 
+    
+
+
+    a{
+        background-color: greenyellow;
+        padding: 10px 30px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-weight: 700;
+    }
+   .half-width{
+       width:500px;
+      padding-inline-end: 20%;
+     
+   }
+   .recipi img{
+       width:400px;
+       
+      
+   p{
+       font-size: 20px;}
+      
+   
