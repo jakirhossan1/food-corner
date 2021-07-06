@@ -9,8 +9,18 @@
         display: flex;
        
        width:100%;
-
+       
      }
+     .color-footer{
+        text-align: center;
+    }
+    #yellow-color{
+        color: rgb(231, 13, 13);
+    }
+    #food-color{
+        color: rgb(4, 23, 131);
+    }
+     
      .top-benner{
          background-image: url(images/0dafb7928a99a9cb552a941895a6e586.jpg);
          border-radius: 10px;
@@ -42,5 +52,5 @@
       
    p{
        font-size: 20px;}
-      
-   
+
+     
